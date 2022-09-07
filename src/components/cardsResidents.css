@@ -1,0 +1,27 @@
+.cards{
+ display: flex;
+ margin: auto;
+ padding: 5px;
+ background: rgba(29, 1, 1, 0.151);
+ border-radius: 15px;
+ color: rgb(185, 185, 185);
+ box-shadow: 5px 5px 5px  rgba(255, 255, 255, 0.2);
+
+}
+img{
+    width: 150px;
+    padding: 5px;
+    border-radius: 15px;
+}
+span{
+    color: rgb(94, 94, 94);
+}
+ul{
+    list-style: none;
+    padding: 9px;
+}
+.li_info{
+    display: flex;
+    flex-direction: column;
+}
+
